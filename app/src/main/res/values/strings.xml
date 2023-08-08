@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CocktailBar2</string>
+    <string name="app_title">My cocktails</string>
+    <string name="create_cocktail_hint">Add your first cocktail here</string>
+    <string name="title">Title</string>
+    <string name="cocktail_name">Cocktail name</string>
+    <string name="to_make_this_homemade">To make this homemade</string>
+    <string name="simply_combine_all_the_ingredients">Simply combine all the ingredients</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="recipe">Recipe</string>
+</resources>
